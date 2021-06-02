@@ -1,5 +1,5 @@
 {
 	"files":["hello.js"],
-	"output":"Hello, World!",
+	"output":"Hello, World!\n",
 	"run":"hello.js"
 }
