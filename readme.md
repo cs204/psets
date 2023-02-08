@@ -1,2 +1,2 @@
-check50 <owner>/<repo>/<branch>/<problem>
-check50 cs204/psets/2021/hello
+npx check204 <branch>/<problem>
+npx check204/2023/hello_py
