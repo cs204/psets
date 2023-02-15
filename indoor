@@ -1,0 +1,5 @@
+{
+	"files":["indoor.py"],
+	"output":"hello\n",
+	"run":"echo HELLO | python hello.py"
+}
