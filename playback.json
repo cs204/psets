@@ -1,5 +1,5 @@
 {
 	"files":["playback.py"],
 	"output":"It...is...test.\n",
-	"run":"echo 'It is test.' | python playblack.py"
+	"run":"echo 'It is test.' | python playback.py"
 }
