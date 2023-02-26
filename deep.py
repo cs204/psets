@@ -1,3 +1,4 @@
+
 {
 	"files":["deep.py"],
 	"output":"Да\n",
