@@ -1,5 +1,6 @@
 {
-	"files":["deep.py"],
-	"output":"Yes\n",
-	"run":"echo '42' | python deep.py"
+	"files":["faces.py"],
+	"output":"Hello 🙂 Goodbye 🙁\n",
+	"run":"echo 'Hello :) Goodbye :(' | python faces.py"
 }
+
