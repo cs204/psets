@@ -1,6 +1,5 @@
-
 {
 	"files":["deep.py"],
-	"output":"Да\n",
-	"run":"echo 'сорок два' | python deep.py"
+	"output":"Yes\n",
+	"run":"echo '42' | python deep.py"
 }
