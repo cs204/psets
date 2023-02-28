@@ -1,0 +1,5 @@
+{
+	"files":["feet2meter.py"],
+	"output":"Это будет 55.14 метров.\n",
+	"run":"echo 180.9ft | python feet2meter.py"
+}
