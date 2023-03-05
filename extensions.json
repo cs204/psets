@@ -1,5 +1,5 @@
 {
 	"files":["extensions.py"],
-	"output":"File name: image/jpeg\n"
+	"output":"File name: image/jpeg\n",
 	"run":"echo hello.jpg | python extensions.py"
 }
