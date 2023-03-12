@@ -1,0 +1,5 @@
+{
+	"files":["camel.py"],
+	"output":"Верблюжий стиль: first_Name\n",
+	"run":"echo firstName | python camel.py"
+}
