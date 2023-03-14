@@ -1,0 +1,5 @@
+{
+	"files":["calories.py"],
+	"output":"Фрукт: Калории: 130\nФрукт: Калории: 20\n",
+	"run":"(echo Apple | python calories.py) ; (echo Lime | python calories.py)"
+}
