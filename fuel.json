@@ -1,0 +1,5 @@
+{
+	"files":["fuel.py"],
+	"output": "Дробь: 50%\nДробь: F\nДробь: E\n",
+	"run": "echo 1/2 | python fuel.py; echo 99/100 | python fuel.py; echo 1/100 |python fuel.py;"
+}
