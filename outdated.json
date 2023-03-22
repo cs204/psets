@@ -1,5 +1,6 @@
 {
 	"files":["outdated.py"],
 	"output":"Дата: 2023-03-08\nДата: Дата: 2023-11-31\n",
-	"run": "echo -e '8 март 2023\n' | python outdated.py; echo -e 'март 8 2023\n31.11.2023\n8.13.2023\n8.3.2023\n'| python outdated.py"
+	"run": "(echo -e '8 март 2023\n' | python outdated.py); (echo -e 'март 8 2023\n31.11.2023\n8.13.2023\n8.3.2023\n'| python outdated.py);"
 }
+
