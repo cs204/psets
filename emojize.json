@@ -1,0 +1,7 @@
+
+{
+	"files":["emojize.py"],
+	"output": "Input: Output: 🥇\nInput: Output: 💰\n",
+
+	"run": "echo :1st_place_medal: | python emojize.py; echo :money_bag: | python emojize.py"
+}
