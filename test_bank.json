@@ -1,0 +1,5 @@
+{
+	"files":["bank.py", "test_bank.py"],
+	"output":"Ok\n",
+	"run":"echo Ok"
+}
