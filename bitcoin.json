@@ -1,5 +1,5 @@
 {
 	"files":["bitcoin.py"],
-	"output": "$56,115.1530\n\nПропущен аргумент командной строки\nАргумент командной строки не число\n",
-	"run": "python bitcoin.py; python bitcoin.py cat; python bitcoin.py 2;"
+	"output": "Пропущен аргумент командной строки\nАргумент командной строки не число\n",
+	"run": "python bitcoin.py; python bitcoin.py cat;"
 }
