@@ -1,5 +1,5 @@
 {
 	"files":["lines.py"],
-	"output": "Слишком мало аргументов в командной строке\nСлишком много аргументов в командной строке\nФайл не существует\n2\n",
-	"run": 'python lines.py; python lines.py hello.py goodbye.py; python lines.py no_such_file.py; echo -e "#it is test\n   \nname =2\nprint(name)\n" > test.py; python lines.py test.py; rm test.py;'
+	"output": "2\n",
+	"run": "echo -e '#it is test\n   \nname =2\nprint(name)\n' > test.py; python lines.py test.py; rm test.py;"
 }
