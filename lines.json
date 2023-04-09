@@ -1,5 +1,6 @@
 {
-	"files":["lines.py"],
-	"output": "3\n",
-	"run": "echo -e '#it is test\n   \nname =2\nprint(name)\nprint("hello")\n' > test.py; python lines.py test.py; rm test.py;"
+	"files":["hello.py", "lines.py"],
+	"output": "2\n",
+	"run": "python lines.py hello.py"
 }
+
