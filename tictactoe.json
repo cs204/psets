@@ -1,5 +1,5 @@
 {
 	"files":["tictactoe.py"],
 	"output": "(1, 1)\n",
-	"run":"echo -e 'from tictactoe import minimax, O, X, EMPTY; s = [   [O, O, X], [X, EMPTY, EMPTY], [O, O, X]]; print(minimax(s))'| python"
+	"run": "echo  'from tictactoe import minimax, O, X, EMPTY; s = [[O, O, X], [X, EMPTY, EMPTY], [O, O, X]]; print(minimax(s))' | python ;"
 }
