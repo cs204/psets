@@ -1,0 +1,5 @@
+{
+	"files":["pureFucntion.py"],
+	"output":"[4, 6, 8, 10]\n",
+	"run":"python pureFunction.py"
+}
