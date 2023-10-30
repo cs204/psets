@@ -1,0 +1,5 @@
+{
+	"files":["bankAccounts.py"],
+	"output":"[300.0, 503.0, 3508.03]\n",
+	"run":"python bankAccounts.py"
+}
