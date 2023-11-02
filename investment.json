@@ -1,0 +1,6 @@
+
+{
+	"files":["investment.py"],
+	"output":"[300.0, 503.0, 4408.03]\n",
+	"run":"python investment.py"
+}
