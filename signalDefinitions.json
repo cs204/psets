@@ -1,0 +1,5 @@
+{
+	"files":["signalDefinitions.py"],
+	"output":"[-1, 3]\nStepSignal: [0, 1, 1, 1, 1]\nScaledSginal(StepSignal, 2): [0, 2, 0, 0, 0]\nR(us)): [0, 0, 1, 0, 0]\nSummedSignal(us, R(us)): [0, 1, 1, 0, 0]\nRn(us, 2): [0, 0, 0, 1, 0]\n",
+	"run":"python singalDefinitions.py"
+}
