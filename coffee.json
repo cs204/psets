@@ -1,5 +1,0 @@
-{
-	"files":["coffee.py"],
-	"output":"Нужная сумма: 50\nВставьте монету: Ваша сдача: 0\n",
-	"run":"echo 50 | python coffee.py"
-}

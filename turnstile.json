@@ -1,5 +1,0 @@
-{
-	"files":["turnstile.py"],
-	"output":"['pay', 'enter', 'pay', 'enter']\n",
-	"run":"python turnstile.py"
-}

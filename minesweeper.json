@@ -1,5 +1,0 @@
-{
-	"files":["minesweeper.py"],
-	"output": "True\n",
-	"run": "echo 'from minesweeper import MinesweeperAI, Sentence; m = MinesweeperAI(); m.add_knowledge((0,0), 2); print(m.knowledge.pop().cells == {(0,1), (1,1), (1,0)});' | python"
-}

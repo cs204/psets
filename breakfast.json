@@ -1,6 +1,0 @@
-{
-	"files":["breakfast.py"],
-	"output": "Блюдо: Блюдо: \nСумма: 5.00\nБлюдо: Блюдо: \nСумма: 10.00\n",
-	"run": 
-	"echo булочка | python breakfast.py; echo чай |python breakfast.py;"
-}

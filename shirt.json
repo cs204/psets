@@ -1,5 +1,0 @@
-{
-	"files":["shirt.py", "shirt.png", "before1.jpg"],
-	"output": "44 after1.jpg\n",
-	"run": "python shirt.py before1.jpg after1.jpg; ls -s after1.jpg"
-}

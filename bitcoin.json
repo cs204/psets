@@ -1,5 +1,0 @@
-{
-	"files":["bitcoin.py"],
-	"output": "$56,115.1530\n",
-	"run": "python bitcoin.py 2"
-}

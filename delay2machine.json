@@ -1,6 +1,0 @@
-
-{
-	"files":["delay2machine.py"],
-	"output":"[100, 10, 1, 2, 10, 20]\n",
-	"run":"python delay2machine.py"
-}

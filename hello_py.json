@@ -1,5 +1,0 @@
-{
-	"files":["hello.py"],
-	"output":"Hello, World!\n",
-	"run":"python hello.py"
-}

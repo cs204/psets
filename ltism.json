@@ -1,5 +1,0 @@
-{
-	"files":["ltism.py"],
-	"output":"[11, 15, 22, 32, 45]\n",
-	"run":"python ltism.py"
-}

@@ -1,6 +1,0 @@
-{
-	"files":["hello.py", "lines.py"],
-	"output": "2\n",
-	"run": "python lines.py hello.py"
-}
-

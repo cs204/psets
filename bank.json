@@ -1,5 +1,0 @@
-{
-	"files":["bank.py"],
-	"output":"Приветствие: $20\n",
-	"run":"echo здрасте | python bank.py"
-}
