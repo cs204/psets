@@ -1,0 +1,5 @@
+{
+	"files":["jar.py", "test_jar.py"],
+	"output":"🍪🍪🍪\n",
+	"run":"python -c 'from jar import Jar; jar = Jar(); jar.deposit(3);print(jar);'"
+}
