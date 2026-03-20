@@ -1,5 +1,0 @@
-{
-	"files":["hello.cpp"],
-	"output":"Hello!\nGood bye!\n",
-	"run":"g++ hello.cpp && ./a.out"
-}
